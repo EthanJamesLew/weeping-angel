@@ -1,5 +1,7 @@
 # Weeping Angel Script
 
+![Weeping Angel](./Img/weeping.gif)
+
 The Weeping Angels are one of the most iconic and terrifying creatures in the Doctor Who universe. They are known for their ability to move only when they are not being observed. Similarly, this script detects blinks, symbolizing the Weeping Angels freezing when someone looks at them. So, watch out for those blinks, or you might find yourself surrounded by these quantum-locked creatures!
 
 Remember, don't blink! Blink and you're... well, maybe not sent back in time, but you might miss something important!
